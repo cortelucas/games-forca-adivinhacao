@@ -1,4 +1,4 @@
-# Jogo Adivinhação
+# Formação Python
 Exercícios e exemplos em aula feitos através da plataforma de ensino Alura.
 Material para aprendizado lúdico da linguagem Python
 
