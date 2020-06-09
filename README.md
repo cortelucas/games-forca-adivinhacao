@@ -11,5 +11,5 @@ Direitos dos códigos bases reservado ao professor Nico Steppat (@steppat) da Al
 - Tenha o Python 3.8.3 instalado
 - Crie um diretório
 - Entre via terminal no diretório escolhido
-- Clone o projeto -> git clone https://github.com/cortelucas/games-forca-adivinhacao.git
+- Clone o projeto -> ```git clone https://github.com/cortelucas/games-forca-adivinhacao.git```
 - Rode o projeto.
