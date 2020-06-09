@@ -6,3 +6,11 @@ Direitos dos códigos bases reservado ao professor Nico Steppat (@steppat) da Al
 
 - Utilização da documentação da Interpolação de Strings. (https://docs.python.org/3/library/string.html#formatexamples)
 - Implementações e mudanças adicionais, além do código criado pelo professor.
+
+##Instruções para executar o projeto
+- Tenha o Python 3.8.3 instalado
+- Crie um diretório
+- Entre via terminal no diretório escolhido
+- Clone o projeto -> git clone 
+- Rode o projeto.
+
