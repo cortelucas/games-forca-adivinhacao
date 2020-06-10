@@ -7,7 +7,7 @@ figo
 goiaba
 laranja
 limao
-mamão
+mamao
 manga
 maracuja
 maça
